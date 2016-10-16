@@ -1,4 +1,4 @@
-package me.matthew.codetowin;
+package me.matthew.codetowin.lists;
 
 public class ListNode {
 

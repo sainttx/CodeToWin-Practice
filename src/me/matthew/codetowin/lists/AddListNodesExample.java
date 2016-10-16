@@ -1,9 +1,12 @@
-package me.matthew.codetowin;
+package me.matthew.codetowin.lists;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListNodeExample {
+/**
+ * Adding two list nodes example from http://www.programcreek.com/2012/12/add-two-numbers/
+ */
+public class AddListNodesExample {
 
     public static void main(String[] args) {
         ListNode first = new ListNode(2);
